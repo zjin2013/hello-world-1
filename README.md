@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 Short description
 This diagram shows
 - The main branch
