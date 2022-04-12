@@ -14,8 +14,13 @@ A table
 
 <details> <summary>How to create and merge a branch</summary>
   - Create a branch
+  
   - Make changes and commit changes
+  
   - Submit a pull request
+  
   - Discuss the changes
+  
   - Merge the branch to the main
+  
   </details>
